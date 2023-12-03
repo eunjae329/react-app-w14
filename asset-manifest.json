@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/react-app-w14/static/js/main.076f5814.js",
+    "static/media/react.png": "/react-app-w14/static/media/react.6d4a3e7eb19178b59392.png",
+    "static/media/metaScore.png": "/react-app-w14/static/media/metaScore.365b8811a714a1f10a35.png",
+    "static/media/zelda_Title.png": "/react-app-w14/static/media/zelda_Title.6948d4c3547d2e8c3dcb.png",
+    "static/media/LinkGood.png": "/react-app-w14/static/media/LinkGood.6d85e6992b214eea530f.png",
+    "static/media/mainCharacters.jpg": "/react-app-w14/static/media/mainCharacters.8072a122df804a339703.jpg",
+    "index.html": "/react-app-w14/index.html",
+    "main.076f5814.js.map": "/react-app-w14/static/js/main.076f5814.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.076f5814.js"
+  ]
+}
